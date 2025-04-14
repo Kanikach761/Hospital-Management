@@ -10,11 +10,10 @@ The Hospital Management System (HMS) is a Java-based application designed to man
 * Book Appointments: Allows booking appointments for patients with available doctors on a specified date, ensuring the doctor is not double-booked.
 
 * Database Integration: The system interacts with a PostgreSQL database to store all records related to patients, doctors, and appointments.
-# Programming Language: Java
 
-# Database: PostgreSQL
-
-# JDBC: For database connectivity
+Programming Language: Java
+Database: PostgreSQL
+JDBC: For database connectivity
 
 # Example Workflow:
 Add a patient by providing their name, age, and gender.
